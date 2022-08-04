@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "first package.json",
+  "main": "main.js",
+  "scripts": {
+    "test": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "type": "module",
+  "keywords": [
+    "none"
+  ],
+  "author": "jonny",
+  "license": "UNLICENSED"
+}
